@@ -1,0 +1,2 @@
+- [Terms of Service](./TermsOfService.md)
+- [Privacy Policy](./PrivacyPolicy.md)
